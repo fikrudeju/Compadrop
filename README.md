@@ -1,4 +1,4 @@
-CompDrop
+Compadrop
 ========
 
 Compact Dropdown
